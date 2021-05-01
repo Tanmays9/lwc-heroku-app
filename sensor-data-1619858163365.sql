@@ -31,7 +31,7 @@ CREATE TABLE users
   id       serial                 NOT NULL,
   username character varying(255) NOT NULL,
   password character varying(255) NOT NULL,
-  admin    bool                   NOT NULL,
+  admin    bool                   NOT NULL DEFAULT false,
   PRIMARY KEY (id)
 );
 

@@ -3,9 +3,9 @@
     "version": "2.0.10",
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
-    "scrollLeft": 0,
-    "zoomLevel": 0.9,
+    "scrollTop": -214.39999999999998,
+    "scrollLeft": -92,
+    "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
       "columnComment": true,
@@ -117,7 +117,7 @@
           "active": false,
           "left": 68.80000000000004,
           "top": 63.20000000000005,
-          "zIndex": 175,
+          "zIndex": 2,
           "widthName": 60,
           "widthComment": 120
         },
@@ -362,7 +362,7 @@
           "active": false,
           "left": 63.11111111111112,
           "top": 340.26666666666654,
-          "zIndex": 128,
+          "zIndex": 1,
           "widthName": 60,
           "widthComment": 74
         },
@@ -445,7 +445,7 @@
             "name": "admin",
             "comment": "",
             "dataType": "bool",
-            "default": "",
+            "default": "false",
             "option": {
               "autoIncrement": false,
               "primaryKey": false,
@@ -469,7 +469,7 @@
           "active": false,
           "left": 388.44444444444446,
           "top": 185.3333333333333,
-          "zIndex": 169,
+          "zIndex": 3,
           "widthName": 60,
           "widthComment": 120
         },
